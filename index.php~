@@ -4,5 +4,10 @@ Hello Git<br/>
 echo "Hello Git eddited";
 echo "Added by Allwin";
 echo "Added by Allwin in local";
+<<<<<<< HEAD
 echo "Edited from linux cola";
-
+=======
+echo "Online";
+>>>>>>> 8b863ed2e2c15c36c1accfababb594929841a4d6
+?>
+Test code
